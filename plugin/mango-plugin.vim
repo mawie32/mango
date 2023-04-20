@@ -1,7 +1,7 @@
 " Title:        Mango Plugin
 " Description:  My mango fruit.
 " Last Change:  2023
-" Maintainer:   Example User <https://github.com/example-user>
+" Maintainer:   Example User <https://github.com/mawie32>
 
 " Prevents the plugin from being loaded multiple times. If the loaded
 " variable exists, do nothing more. Otherwise, assign the loaded
