@@ -9,7 +9,7 @@
 if exists("g:loaded_mango-plugin")
     finish
 endif
-let g:loaded_example-plugin = 1
+let g:loaded_mango-plugin = 1
 
 " Exposes the plugin's functions for use as commands in Vim.
 command! -nargs=0 DisplayTime call example-plugin#DisplayTime()
